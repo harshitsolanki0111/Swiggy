@@ -4,7 +4,7 @@
 
 An interactive **Power BI Dashboard** built for Swiggy, delivering deep insights into food order trends, customer spending, city-level performance, and yearly revenue patterns across India.
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/harshitsolanki0111/Swiggy/blob/main/SwiggyDashboard.png)
 
 ---
 
